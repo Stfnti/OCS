@@ -1,5 +1,26 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "a8cef9131bdd",
+    "children" : [ {
+      "name" : "1-MainThread",
+      "children" : [ {
+        "name" : "Test Login Button Works Correctly",
+        "uid" : "3586eced41365824",
+        "parentUid" : "d44f9afd10e76ec9d11d14383b9ff3b8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1732617664060,
+          "stop" : 1732617673081,
+          "duration" : 9021
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d44f9afd10e76ec9d11d14383b9ff3b8"
+    } ],
+    "uid" : "03b13ecf2306110fa49fa6ee4c222faa"
+  } ],
   "name" : "timeline"
 }

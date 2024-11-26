@@ -1,1 +1,11 @@
-[ ]
+[ {
+  "uid" : "3586eced41365824",
+  "name" : "Test Login Button Works Correctly",
+  "time" : {
+    "start" : 1732617664060,
+    "stop" : 1732617673081,
+    "duration" : 9021
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
